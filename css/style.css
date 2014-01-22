@@ -1,0 +1,29 @@
+html {
+	height: 100%;
+	font-family: 'Roboto', sans-serif;
+}
+body { 
+	height: 100%; 
+	margin: 0; 
+	padding: 0 
+}
+#beans {
+	max-height:300px;
+	border-radius:5px;
+}
+.title {
+	font-size:70px;
+	padding-top:4%;
+}
+.description {
+	padding-top:10px;
+}
+.row {
+	padding-top:15px;
+}
+.productImage {
+	max-height:300px;
+}
+.space {
+	margin-top:60px;
+}
